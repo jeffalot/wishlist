@@ -21,6 +21,7 @@
 - **Rice Strainer**
 - **[Stove Flattop Conversion](https://steelmadeusa.com/)**
 - Rice Cooker
+- Oven Thermometer
 
 ## Automation / Security
 - Samsung Smart Things
@@ -47,6 +48,7 @@
 - Pwnagotchi
 - https://www.madnoodleprototypes.com/product-page/mad-noodle-tilting-case
 - https://www.pokemoncenter.com/product/710-09874/pokemon-audio-collection-pokemon-center-u-turn-audio-turntable
+- Starter Kit for Electronics Soldering
 
 # Bags
 - [Bellroy Venture Sling 9L](https://bellroy.com/products/venture-sling/baida_nylon/bronze?ranMID=43345&ranEAID=3316049&ranSiteID=8Lz8eUL1fSg-haZcQSiRhgbRLcoZq5McHw#slide-0)
